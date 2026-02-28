@@ -41,6 +41,7 @@ obj-$(CONFIG_DRM_PANEL_MOTOROLA_RIVER_624_TIANMA) += panel-motorola-river-624-ti
 obj-$(CONFIG_DRM_PANEL_MOTOROLA_RIVER_HX83112B_TIANMA) += panel-motorola-river-hx83112b-tianma.o
 obj-$(CONFIG_DRM_PANEL_MOTOROLA_RIVER_NT36672A_TIANMA) += panel-motorola-river-nt36672a-tianma.o
 obj-$(CONFIG_DRM_PANEL_SAMSUNG_GTA2XL_HX8279_TV101WUM) += panel-samsung-gta2xl-hx8279-tv101wum.o
+obj-$(CONFIG_DRM_PANEL_SAMSUNG_J7POPLTE_TD4100_5_5) += panel-samsung-j7poplte-td4100-5-5.o
 obj-$(CONFIG_DRM_PANEL_TENOR_HX8399C_AUO) += panel-tenor-hx8399c_auo.o
 obj-$(CONFIG_DRM_PANEL_TENOR_ILI7807D_DJN_AUO) += panel-tenor-ili7807d_djn_auo.o
 obj-$(CONFIG_DRM_PANEL_TENOR_ILI7807D_DJN) += panel-tenor-ili7807d_djn.o
